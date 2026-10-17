@@ -1,3 +1,5 @@
+![Prayush Kale — Senior Full Stack Engineer](assets/header.png)
+
 ## Hi, I'm Prayush 👋
 
 **Senior Full Stack Engineer** — Python/FastAPI on the backend, Vue 3/TypeScript on the front, PostgreSQL + AWS underneath.
