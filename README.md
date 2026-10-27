@@ -7,6 +7,8 @@
 
 📫 Open to Senior Full Stack / Backend roles (remote or India) — [contact@prayush.dev](mailto:contact@prayush.dev) · [LinkedIn](https://www.linkedin.com/in/prayushkale/) · [prayush.dev](https://prayush.dev)
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/prayushkale)
+
 ### What I've built (AIMonks, 2021 – 2026)
 
 - **SpotGenius — real-time smart-parking platform.** #1 contributor to both the Vue 3 and Vue 2 admin dashboards and a core contributor to the FastAPI backend (500+ endpoints) of a 19-service, event-driven platform.
@@ -32,6 +34,8 @@
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
 ### Side projects
+
+- [**chillax**](https://github.com/prayushkale/chillax-app) — you are the stakeholder, a team of AI coding agents runs the company: PM, devs, tech lead and QA with sprint and release gates (Rust, ratatui, axum, Agent Client Protocol, MCP) · [site](https://chillax.prayush.dev)
 
 - [**magic-pencil-app**](https://github.com/prayushkale/magic-pencil-app) — draw a sketch, press a button, it becomes a short film (Next.js 15, React 19, fal.ai)
 - [**ink-paper-visualizer**](https://github.com/prayushkale/ink-paper-visualizer) — ink blots → photographs → one continuous AI-streamed film (Three.js, Express, fal.ai)
