@@ -5,7 +5,7 @@
 **Senior Full Stack Engineer** — Python/FastAPI on the backend, Vue 3/TypeScript on the front, PostgreSQL + AWS underneath.
 6+ years shipping production SaaS end to end: data model → API → UI → rollout → the 2 a.m. hotfix.
 
-📫 Open to Senior Full Stack / Backend roles (remote or India) — [contact@prayush.dev](mailto:contact@prayush.dev) · [LinkedIn](https://www.linkedin.com/in/prayushkale/) · [prayush.dev](https://prayush.dev)
+📫 Open to Senior Full Stack / Backend roles (remote or India) — [contact@prayush.dev](mailto:contact@prayush.dev) · [LinkedIn](https://www.linkedin.com/in/prayushkale/) · [prayush.dev](https://prayush.dev) · [what I'm building now](https://prayush.dev/#now)
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/prayushkale)
 
@@ -33,10 +33,27 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
-### Side projects
+### Open source
 
 - [**chillax**](https://github.com/prayushkale/chillax-app) — you are the stakeholder, a team of AI coding agents runs the company: PM, devs, tech lead and QA with sprint and release gates (Rust, ratatui, axum, Agent Client Protocol, MCP) · [site](https://chillax.prayush.dev)
+- [**agentic-setup**](https://github.com/prayushkale/agentic-setup) — guided, reversible installer for a coding-agent setup (Claude Code, Codex, Gemini CLI, Command Code) · `npx agentic-setup`
+- [**easy-recommendations**](https://github.com/prayushkale/easy-recommendations) — get LinkedIn recommendations without the awkwardness, self-hosted on Cloudflare
+- [**skills**](https://github.com/prayushkale/skills) — agent skills I use daily (batch tasks, tiered subagents, X and LinkedIn writing)
+- [**The Discipline of Markets**](https://niftychronicles.com/book/) — a free book on trading discipline
 
-- [**magic-pencil-app**](https://github.com/prayushkale/magic-pencil-app) — draw a sketch, press a button, it becomes a short film (Next.js 15, React 19, fal.ai)
-- [**ink-paper-visualizer**](https://github.com/prayushkale/ink-paper-visualizer) — ink blots → photographs → one continuous AI-streamed film (Three.js, Express, fal.ai)
-- [**tools-for-market-analysis**](https://github.com/prayushkale/tools-for-market-analysis) — free market-data visualization tools for Indian equities
+### Products
+
+- **Specatro** — a market-prediction game built on real historical events (Godot). Launching November 2026, follow [@prayushkale](https://x.com/prayushkale) for the link
+- [**Nifty Chronicles**](https://niftychronicles.com) — pre-market Nifty analysis every trading day, plus weekly reviews
+- [**YouTube Book Maker**](https://youtubebookmaker.com) — turns a YouTube channel into a book
+- [**Localooru**](https://localooru.com) — a hyper-local app, in progress
+
+### Fun
+
+- [**Aparichit**](https://aparichit.prayush.dev) — an AI short film and its site
+- [**Web Evolution**](https://web-evolution.prayush.dev) — scroll through the history of web design
+- [**Shakuni**](https://shakuni.prayush.dev) — a 3D dice game from the Mahabharata
+
+### More
+
+[free-alternatives](https://github.com/prayushkale/free-alternatives) · [nifty-casino](https://github.com/prayushkale/nifty-casino) · [magic-pencil-app](https://github.com/prayushkale/magic-pencil-app) · [ink-paper-visualizer](https://github.com/prayushkale/ink-paper-visualizer) · [tools-for-market-analysis](https://github.com/prayushkale/tools-for-market-analysis)
